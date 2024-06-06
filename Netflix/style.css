@@ -7,7 +7,7 @@ body{
 }
 .container {
     height: 644px;
-    background-image:url(/home.png);
+    background-image:url(Netflix/home.png);
 }
 
 .container .box {
